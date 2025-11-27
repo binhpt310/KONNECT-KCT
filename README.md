@@ -1,28 +1,74 @@
-# Konnect Token (KCT) Smart Contract
+# KONNECT (KCT) – Official Repository
 
-This repository contains the Solidity source code of the Konnect token (KCT) smart contract. The contract is verified on Etherscan and powers the Konnect finance ecosystem, which is a lifestyle membership and e-commerce blockchain platform.
+This repository serves as the official GitHub for the KONNECT (KCT) project.  
+It is maintained to transparently provide token information,  
+official wallets, token distribution, and security notices required by exchanges.
 
-## About Konnect Token
+---
 
-- **Token Name:** Konnect (KCT)
-- **Project Website:** [https://konnect-world.com](https://konnect-world.com)
-- **Token Contract on Ethereum:** [Etherscan Link](https://etherscan.io/token/0x63230728bc219d991D2995ce92E96C16Fcf8beB6)
-- **Description:** Konnect bridges virtual and real-world business using blockchain, providing membership benefits, NFTs, and discounts in global B2B and B2C markets.
-- **Use Case:** Membership staking, e-commerce integration, NFTs, travel, tourism, cultural infrastructure.
+##  Overview
 
-## Smart Contract Source
+KCT (Konnect Token) is the native utility token used within the KINC Web3 platform.  
+KINC is a global RWA-based ecosystem where KCT is utilized for:
 
-The smart contract code here is sourced from the verified contract on Etherscan, representing the official implementation on Ethereum blockchain.
+- Ecosystem fees  
+- User membership and rewards  
+- Platform participation incentives  
+- Service utility functions  
 
-## Usage
+This repository follows disclosure requirements from exchanges  
+such as GOPAX, Gate.io, and HTX.
 
-- Review and audit the smart contract code before deployment or integrations.
-- Use for educational and development purposes.
-- Contributions welcome to improve documentation or tooling around Konnect token.
+---
 
-## Disclaimer
+##  Official Links
 
-This repository is for informational and development use only. The original contract is deployed and verified on the Ethereum mainnet. Always exercise caution and due diligence when dealing with smart contracts and crypto assets.
+- Website (KINC Platform):https://www.kinc.world/home
+- Medium: https://medium.com/konnect-world  
+- Twitter (X): https://x.com/KONNECT_KCT  
+- Telegram Announcements: https://t.me/KonnectAnnouncements
+
+---
+
+##  Token Information
+
+- Token Name: KCT (Konnect Token)  
+- Total Supply: 10,000,000,000 KCT  
+- Blockchain: Ethereum (ERC-20)
+
+Full token allocation details can be found in:  
+/docs/token_distribution.md
+
+---
+
+##  Official Wallet (Master Reserve Wallet)
+
+All non-circulating and operational token reserves  
+are stored in the following official management wallet: 0x044ed3D39840d4088a205012Ec772c5C2F05f545
 
 
+Utilization includes:  
+- Reserve allocation  
+- Ecosystem operations  
+- Partial Sales allocation (formerly Seed/Private/Strategic)  
+- Marketing and Preservation  
+- Team & Advisor distribution  
+- Exchange liquidity (LP) operations
 
+Future updates to wallet allocations will be added as needed.
+
+---
+
+##  Security Report
+
+A summarized disclosure of the December 13, 2024 security incident  
+is available at:
+
+/docs/security_report.md
+
+---
+
+##  Contact
+
+For further inquiries, please use the official Telegram channel  
+or refer to updates via Medium.
